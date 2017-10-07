@@ -1,6 +1,18 @@
 # Night-at-a-Museum
 Night at a Museum is a virtual museum showcasing the amazing applications of VR in military. There are 5 chambers, each of which house 4 stations. These stations provide information about the various applications of VR in military. Each chamber showcases a different branch of military operations such as air force, ground vehicles, combat training, navy and medical.
 
+![Welcome](/Screenshots/Intro.png?raw=true "Welcome Screen")
+
+<p align="center">The Welcome Screen</p>
+
+![Room](/Screenshots/Room.png?raw=true "Room")
+
+<p align="center">One of the five chambers</p>
+
+![Corridor](/Screenshots/Corridor.png?raw=true "Corridor and Video Station")
+
+<p align="center">Corridor and the Video Station</p>
+
 ## How to Build
 
 * Clone this repository.
