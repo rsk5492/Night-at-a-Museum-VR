@@ -1,5 +1,6 @@
 # Night-at-a-Museum
 Night at a Museum is a virtual museum showcasing the amazing applications of VR in military. There are 5 chambers, each of which house 4 stations. These stations provide information about the various applications of VR in military. Each chamber showcases a different branch of military operations such as air force, ground vehicles, combat training, navy and medical.
+<br/><br/><br/>
 
 ![Welcome](/Screenshots/Intro.png?raw=true "Welcome Screen")
 
@@ -21,6 +22,7 @@ Night at a Museum is a virtual museum showcasing the amazing applications of VR 
 * Unzip the GVR SDK archive and import GoogleVRForUnity.unitypackage in Unity.
 * Install iTween from the Unity Asset Store.
 * Go to build settings and change the target to Android/IOS.
+* Make sure the API selected for Android is API 19 or above.
 * Build the application and save the apk or ipa file.
 * Install the file on your device and enjoy your virtual tour of the museum.
 
